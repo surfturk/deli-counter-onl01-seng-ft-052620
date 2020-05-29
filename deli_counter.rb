@@ -2,7 +2,7 @@ def line(array)
   
   
  
-  new_modified_array = array.map do |name| 
+  new_modified_array = array.map.with_index(1) do |name, index| 
     
     end
     
