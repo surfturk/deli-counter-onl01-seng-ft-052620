@@ -17,5 +17,5 @@ end
 def take_a_number(array, name)
  
  array << name
- puts "Welcome, Ada. You are number 1 inline."
+ puts "Welcome, #{name}. You are number #{} inline."
 end
