@@ -2,7 +2,6 @@ def line(array)
   
   
  
-  
   new_modified_array = array.map do |name| 
     
     end
